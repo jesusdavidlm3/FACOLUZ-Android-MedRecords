@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Historias clinicas FACOLUZ</string>
+    <string name="title_activity_main">Historias clinicas FACOLUZ</string>
+    <string name="package_name">com.facoluz.medrecords</string>
+    <string name="custom_url_scheme">com.facoluz.medrecords</string>
+</resources>
